@@ -1,0 +1,23 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&family=Rubik+Wet+Paint&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&family=Patua+One&family=Rubik+Wet+Paint&display=swap');
+
+
+
+body{
+    /* background-color: rgb(85, 68, 91); */
+    font-family: "Patua One", serif;
+    font-weight: 400;
+    font-style: normal;
+    /* overflow: hidden; */
+}
+footer{
+    background-color: rgb(14, 13, 13);
+}
+.wrapper .inner .icons .icon {
+    color: white;
+}
+.para{
+    color: azure;
+}
